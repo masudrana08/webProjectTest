@@ -1,0 +1,17 @@
+#rad{
+height:50px;
+width:50px;
+background-color: grey;
+border:20px solid red;
+border-radius:50%;
+}
+
+#long{
+  float:middle;
+height:50px;
+background-color:rgb(37, 147, 238);
+}
+
+li{
+  display:inline;
+}
